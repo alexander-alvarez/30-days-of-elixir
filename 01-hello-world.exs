@@ -1,3 +1,2 @@
 # http://elixir-lang.org/getting-started/introduction.html
-
-IO.puts "hello world"
+# TASK: Print "hello world" to the console
